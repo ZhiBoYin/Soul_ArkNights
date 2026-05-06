@@ -22,6 +22,12 @@ description of all aspect of the game
 
 ​		require a picture or a set of pictures
 
+logical:
+
+- must have global position:
+  - require x-y-z coords
+- must have facing direction
+
 ##### 1.1.1 touchable object(object):
 
 *logical:*
@@ -116,6 +122,3 @@ logical:
 logical:
 
 - special effect(class)
-
-
-
